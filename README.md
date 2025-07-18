@@ -13,12 +13,26 @@
 
 ---
 
+
 ## 🧑‍💻 About Me
 
 - 🎓 Pre-final year B.Tech student in **Computer Science and Engineering** at IIIT Kottayam  
 - 🧠 Strong interest in backend engineering, database design, and secure API development  
 - ⚙️ Comfortable building full-stack apps using MERN stack and deploying them on cloud platforms  
 - 📚 Self-motivated learner with exposure to Machine Learning, NLP, and Deep Learning  
+
+---
+
+## 📚 Core Coursework
+
+- Data Structures and Algorithms  
+- Operating Systems  
+- Database Management Systems  
+- Computer Networks  
+- Algorithm Analysis
+- Theory Of Computation
+- Computer Architecture
+- Parallel Programming  
 
 ---
 
@@ -90,19 +104,8 @@ An online campus marketplace where students can post, buy, and sell used items e
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarat20&show_icons=true&theme=tokyonight&hide_border=true" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarat20&layout=compact&theme=tokyonight&hide_border=true" width="380"/>
 </p>
-
----
-
-## 📚 Core Coursework
-
-- Data Structures and Algorithms  
-- Operating Systems  
-- Database Management Systems  
-- Computer Networks  
-- Algorithm Analysis  
 
 ---
 
