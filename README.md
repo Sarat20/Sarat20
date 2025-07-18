@@ -39,8 +39,8 @@
 ## 💼 Major Projects
 
 ### 📌 [DocPoint](https://github.com/Sarat20/docpoint) · [Live Demo](https://docpoint.onrender.com)
-> **Tech Stack**: MERN Stack, JWT, Express.js, MongoDB, React, Node.js
-
+> **Tech Stack**: MERN Stack, JWT, Express.js, MongoDB, React, Node.js , Cloudinary, Render
+ 
 A full-stack appointment booking platform for doctors and patients, with real-time availability management.
 
 - 🔐 Role-based authentication (Doctors and Patients) using JWT, ensuring secure access and protected API routes  
@@ -52,7 +52,7 @@ A full-stack appointment booking platform for doctors and patients, with real-ti
 ---
 
 ### 📌 [Farmly](https://github.com/Sarat20/farmly) · [Live Demo](https://farmly-frontend.onrender.com)
-> **Tech Stack**: React, Node.js, Express.js, MongoDB, Mongoose, JWT
+> **Tech Stack**: React, Node.js, Express.js, MongoDB, Mongoose, JWT , Cloudinary, Render
 
 A multi-vendor e-commerce platform that connects users directly with local farm vendors for fresh produce.
 
